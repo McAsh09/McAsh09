@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/zWHvoItO4JWn7pkC4W/source.gif" width="300" align='right'>
 <br/>
 
-- 🔭 I’m a pre-final year student at IIITV pursuing Computer Science.
+- 🔭 I’m a final year student at IIITV pursuing Computer Science.
 - 💬 I do competitive programming using C++.
 - ⚡ Fun fact: Other than programming, I love watching anime and playing FPS games.
 
