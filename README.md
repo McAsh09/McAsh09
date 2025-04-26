@@ -37,6 +37,6 @@
 <br/>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcash09&label=Profile%20views&color=0e75b6&style=flat" alt="mcash09" /> </p>
 
-![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mcash09.mcash09)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
