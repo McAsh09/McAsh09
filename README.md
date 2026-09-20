@@ -1,42 +1,65 @@
-## Yolo! It's me Ashish👋
+<h1 align="center">Hi, I'm Ashish 👋</h1>
 
-<img src="https://media.giphy.com/media/zWHvoItO4JWn7pkC4W/source.gif" width="300" align='right'>
+<p align="center">
+<b>Software Engineer | Full-Stack Developer | Problem Solver</b>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=450&lines=Software+Engineer+(3%2B+Years);Full+Stack+Developer+(MERN+%2F+TS);Scalable+Systems+%26+APIs;Competitive+Programmer+(C%2B%2B)" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ashish-kumar-780a3a1a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/mcash09/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:mcash0907@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mcash009.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💼 **Experience**: Software Engineer with **3+ years of experience** building scalable full-stack web applications, resilient backend architectures, and high-performance user interfaces.
+- 🎓 **Background**: B.Tech in Computer Science from **IIIT Vadodara**.
+- ⚙️ **Core Focus**: High-throughput RESTful APIs, distributed systems, state management, and database optimization.
+- 💡 **Problem Solving**: Strong algorithmic foundation in **C++** with a background in competitive programming.
+- ⚡ **Fun Fact**: Outside of tech, I'm an avid anime enthusiast 🎌 and competitive FPS gamer 🎮.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,git,github,postman,tailwind,linux&perline=8" alt="Tech Stack" />
+</p>
+
+<details>
+<summary><b>📂 Categorized Skills Breakdown</b></summary>
 <br/>
 
-- 🔭 I’m a final year student at IIITV pursuing Computer Science.
-- 💬 I do competitive programming using C++.
-- ⚡ Fun fact: Other than programming, I love watching anime and playing FPS games.
+- **Languages:** `C++`, `JavaScript (ES6+)`, `TypeScript`, `HTML5`, `CSS3/Sass`
+- **Frontend:** `React.js`, `Next.js`, `Redux Toolkit`, `Tailwind CSS`
+- **Backend:** `Node.js`, `Express.js`, `REST APIs`, `Microservices`
+- **Databases & Cache:** `MongoDB`, `PostgreSQL`, `Redis`
+- **DevOps & Tooling:** `Docker`, `Git`, `GitHub Actions`, `Postman`, `Linux`
 
+</details>
 
-<br/>
+---
 
+### 📊 GitHub Activity & Metrics
 
-## Languages and Tools:
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=mcash09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="155" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=mcash09&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
+</div>
 
-<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  />
-<img align="left" alt="expressjs" width="26px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"  />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mcash09&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
+</p>
 
+---
 
-
-<br/>
-<br/>
-
-
-<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=mcash09&count_private=false&show_icons=true&theme=synthwave&include_all_commits=true)
- -->
-![My github stats](https://github-readme-stats.vercel.app/api?username=mcash09&count_private=true&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mcash09&theme=dark&background=0B3F52)](https://git.io/streak-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcash09)
-<br/>
-<br/>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcash09&label=Profile%20views&color=0e75b6&style=flat" alt="mcash09" /> </p>
-
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mcash09&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
